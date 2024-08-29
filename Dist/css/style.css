@@ -377,6 +377,10 @@ iconify-icon:hover{
   gap: 20px;
   align-items: center;
 }
+.socialIcon1 a{
+  display: flex;
+  align-items: center;
+}
 
 /* copyright section */
 
