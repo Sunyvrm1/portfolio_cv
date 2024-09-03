@@ -464,6 +464,9 @@ iconify-icon:hover{
   .active .mobileIcon .menuIcon[name="menu-outline"] {
     display: none;
   }
+  .homeSection{
+    justify-items: center;
+  }
   .contactSection img{
     width: 100%;
   }
